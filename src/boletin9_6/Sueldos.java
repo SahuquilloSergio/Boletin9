@@ -25,6 +25,7 @@ public class Sueldos {
     //mostramos los resultados
         System.out.println("Trabajadores con sueldo entre 1000€ y 1750€: "+i);
         System.out.println("Trabajadores con sueldo inferior a 1000€: "+j);
+    //Fin del método    
     }
     
 }
