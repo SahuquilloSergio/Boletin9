@@ -7,6 +7,7 @@ public class Boletin9_6 {
         Sueldos S1 = new Sueldos();
         //Llamamos al método
         S1.mostrarSueldos();
+        //Fin del programa
     }
     
 }
